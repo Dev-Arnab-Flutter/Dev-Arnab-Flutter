@@ -1,9 +1,6 @@
 # Hi there, I'm Arnab 👋
 
-![Profile views](https://gpvc.arturio.dev/Dev-Arnab-Flutter)
-
 I'm a passionate Flutter developer with a knack for creating beautiful, responsive, and efficient mobile applications. I love to explore new technologies and continuously improve my skills. Welcome to my GitHub profile!
-
 ## 🚀 About Me
 
 📱 Mobile App Developer | 💻 Dart & Flutter Specialist | 🎓 B.Tech in Computer Science Engineering
@@ -27,9 +24,11 @@ Developed and published 4+ apps on the Google Play Store
 Creator of the open-source Flutter package adapto_scaffold
 
 🎯 Objective:
-
 To leverage my expertise in Flutter and Dart to build innovative and user-friendly mobile applications. Eager to collaborate on projects that challenge my skills and contribute to the tech community.
 
+📦 Packages Developed by Me
+• adapto_scaffold — A drop‑in, responsive scaffold for Flutter, adapting to mobile / tablet / desktop.
+🔗 View on pub.dev
 
 ## 🛠️ Technologies & Tools
 
