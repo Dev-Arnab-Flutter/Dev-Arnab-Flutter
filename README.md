@@ -6,19 +6,36 @@ I'm a passionate Flutter developer with a knack for creating beautiful, responsi
 
 ## 🚀 About Me
 
-- 📱 Mobile App Developer specializing in Flutter
-- 💻 Experienced with Dart, Java, and Kotlin
-- 🎓 Currently pursuing a degree in Computer Science
-- 🌱 Always learning and exploring new technologies
-- ⚡ Fun fact: I love playing chess and solving puzzles
+📱 Mobile App Developer | 💻 Dart & Flutter Specialist | 🎓 B.Tech in Computer Science Engineering
+
+🔧 Technical Skills:
+
+Languages: Dart, Java, Kotlin
+
+Frameworks: Flutter, Firebase
+
+Tools: Android Studio, Visual Studio Code
+
+Version Control: Git
+
+🌟 Professional Highlights:
+
+3+ years of hands-on experience in mobile app development
+
+Developed and published 4+ apps on the Google Play Store
+
+Creator of the open-source Flutter package adapto_scaffold
+
+🎯 Objective:
+
+To leverage my expertise in Flutter and Dart to build innovative and user-friendly mobile applications. Eager to collaborate on projects that challenge my skills and contribute to the tech community.
+
 
 ## 🛠️ Technologies & Tools
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -30,14 +47,9 @@ I'm a passionate Flutter developer with a knack for creating beautiful, responsi
 
 ## 📫 How to reach me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [Follow me](https://twitter.com/your-twitter-handle)
-- Email: your-email@example.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/arnab-ghosh-9b888b201/)
 
-## 🔗 Links
-
-- [Portfolio](https://your-portfolio-website.com)
-- [Blog](https://your-blog-website.com)
+- Email: arnab.personal.9951@gmail.com
 
 Looking forward to collaborating with you on exciting projects!
 
