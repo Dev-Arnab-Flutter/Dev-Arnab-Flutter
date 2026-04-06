@@ -8,7 +8,7 @@ Currently at **BitesVilla**, leading end-to-end mobile development for a food de
 
 ## 🚀 About Me
 
-I'm a Flutter specialist with **2+ years of hands-on experience** crafting mobile applications that prioritize performance, scalability, and user engagement. I thrive on solving complex challenges—from real-time location tracking and deep linking to state management at scale.
+I'm a Flutter specialist with **3+ years of hands-on experience** crafting mobile applications that prioritize performance, scalability, and user engagement. I thrive on solving complex challenges—from real-time location tracking and deep linking to state management at scale.
 
 **What drives me:**
 - Writing clean, maintainable code that stands the test of time
@@ -35,7 +35,7 @@ Leading end-to-end mobile development for a food delivery & restaurant platform 
 - 🏪 **Play Store Link:** [BitesVilla on Google Play](https://play.google.com/store/apps/details?id=com.app.bitesvilla)
 
 ### Junior Flutter Developer – KGP-2 SS India Pvt Ltd
-**July 2023 – Jan 2024** | Odisha, India
+**July 2023 – Nov 2023** | Odisha, India
 
 Built responsive, pixel-perfect Flutter UIs and implemented robust state management solutions.
 
@@ -137,4 +137,4 @@ I'm also a **debut author** 📚—published a psychological crime thriller nove
 
 ---
 
-**Last Updated:** April 2025 | ⭐ If you find my work interesting, feel free to star my repos or drop me a message!
+**Last Updated:** April 2026 | ⭐ If you find my work interesting, feel free to star my repos or drop me a message!
