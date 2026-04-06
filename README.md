@@ -63,7 +63,7 @@ Built responsive, pixel-perfect Flutter UIs and implemented robust state managem
 ## 🛠️ Core Skills
 
 **Languages & Frameworks:**
-- Dart, Flutter, Java, Kotlin
+- Dart, Flutter, Kotlin (Platform Channel Specific)
 
 **Architecture & Patterns:**
 - Clean Architecture, MVC, Provider, BLoC, GetX
@@ -133,7 +133,7 @@ I'm always interested in discussing mobile architecture, best practices, or coll
 
 ## ⚡ Fun Fact
 
-I'm also a **debut author** 📚—published a psychological crime thriller novel! When I'm not coding apps, I'm crafting stories. The same principles apply: clean narrative architecture, compelling user engagement, and meticulous attention to detail.
+I'm also a **debut author** 📚—publishing a psychological crime thriller novel! When I'm not coding apps, I'm crafting stories. The same principles apply: clean narrative architecture, compelling user engagement, and meticulous attention to detail.
 
 ---
 
